@@ -1,0 +1,36 @@
+{
+  "name": "babel-preset-ryosuga",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A babel preset for transforming your JavaScript for me",
+  "main": "index.js",
+  "author": {
+    "name": "ryo_suga",
+    "email": "ryo.suga.dev@gmail.com",
+    "url": "http://banseivlog.hatenablog.jp/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:RyotaSugawara/babel-preset-ryosuga.git"
+  },
+  "keywords": [
+    "babel",
+    "es6",
+    "es2015",
+    "javascript"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "babel-plugin-async-to-promises": "^1.0.5",
+    "babel-plugin-transform-class-properties": "^6.16.0",
+    "babel-plugin-transform-es2015-destructuring": "^6.9.0",
+    "babel-plugin-transform-es2015-template-literals": "^6.8.0",
+    "babel-plugin-transform-es3-member-expression-literals": "^6.8.0",
+    "babel-plugin-transform-es3-property-literals": "^6.8.0",
+    "babel-plugin-transform-exponentiation-operator": "^6.8.0",
+    "babel-plugin-transform-export-extensions": "^6.8.0",
+    "babel-plugin-transform-object-rest-spread": "^6.8.0",
+    "babel-preset-es2015-without-strict": "0.0.4",
+    "babel-preset-react": "^6.11.1"
+  }
+}
