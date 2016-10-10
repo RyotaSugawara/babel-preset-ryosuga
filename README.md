@@ -1,6 +1,6 @@
 # babel-preset-ryosuga
 
-> A babel preset for transforming your Javascript for me.
+> A babel preset for transforming my Javascript.
 
 ## Install
 ```bash
