@@ -7,6 +7,7 @@ module.exports = {
     require('babel-plugin-async-to-promises'),
     require('babel-plugin-transform-class-properties'),
     [require('babel-plugin-transform-es2015-template-literals'), { spec: true }],
+    [require('babel-plugin-transform-es2015-for-of'), { loose: true }],
     require('babel-plugin-transform-es3-member-expression-literals'),
     require('babel-plugin-transform-es3-property-literals'),
     require('babel-plugin-transform-exponentiation-operator'),
