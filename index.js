@@ -13,6 +13,7 @@ module.exports = {
     require('babel-plugin-transform-exponentiation-operator'),
     require('babel-plugin-transform-export-extensions'),
     require('babel-plugin-transform-es2015-destructuring'),
-    require('babel-plugin-transform-object-rest-spread')
+    require('babel-plugin-transform-object-rest-spread'),
+    require('babel-plugin-transform-runtime')
   ]
 };
