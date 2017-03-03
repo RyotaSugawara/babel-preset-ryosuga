@@ -1,6 +1,6 @@
 {
   "name": "@ryo_suga/babel-preset-ryosuga",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A babel preset for transforming your JavaScript for me",
   "main": "index.js",
   "author": "ryo_suga <ryo.suga.dev@gmail.com> (http://banseivlog.hatenablog.jp/)",
