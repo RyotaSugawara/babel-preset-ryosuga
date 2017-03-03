@@ -1,17 +1,12 @@
 {
-  "name": "babel-preset-ryosuga",
+  "name": "@ryo_suga/babel-preset-ryosuga",
   "version": "0.0.0",
-  "private": true,
   "description": "A babel preset for transforming your JavaScript for me",
   "main": "index.js",
-  "author": {
-    "name": "ryo_suga",
-    "email": "ryo.suga.dev@gmail.com",
-    "url": "http://banseivlog.hatenablog.jp/"
-  },
+  "author": "ryo_suga <ryo.suga.dev@gmail.com> (http://banseivlog.hatenablog.jp/)",
   "repository": {
     "type": "git",
-    "url": "git@github.com:RyotaSugawara/babel-preset-ryosuga.git"
+    "url": "git+ssh://git@github.com/RyotaSugawara/babel-preset-ryosuga.git"
   },
   "keywords": [
     "babel",
@@ -34,5 +29,9 @@
     "babel-plugin-transform-runtime": "^6.15.0",
     "babel-preset-es2015-without-strict": "0.0.4",
     "babel-preset-react": "^6.11.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/RyotaSugawara/babel-preset-ryosuga/issues"
+  },
+  "homepage": "https://github.com/RyotaSugawara/babel-preset-ryosuga#readme"
 }
