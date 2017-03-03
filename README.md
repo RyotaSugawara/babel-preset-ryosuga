@@ -4,7 +4,7 @@
 
 ## Install
 ```bash
-npm i git://github.com/RyotaSugawara/babel-preset-ryosuga.git -D
+npm i @ryo_suga/babel-preset-ryosuga -D
 ```
 
 ## Usage
