@@ -12,7 +12,7 @@ npm i @ryo_suga/babel-preset-ryosuga -D
 **.babelrc**
 ```
 {
-  "presets": ["ryosuga"]
+  "presets": ["@ryo_suga/babel-preset-ryosuga"]
 }
 ```
 
